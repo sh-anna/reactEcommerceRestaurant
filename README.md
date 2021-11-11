@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 [Examle Website](https://sh-anna.github.io/reactEcommerceRestaurant/)
 
 ![This is an image](https://github.com/sh-anna/reactEcommerceRestaurant/blob/main/src/images/reactEcommerceRestaurant.JPG)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
