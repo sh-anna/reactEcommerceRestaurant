@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/reactEcommerceRestaurant/static/js/main.0460cf97.chunk.js",
+    "main.js.map": "/reactEcommerceRestaurant/static/js/main.0460cf97.chunk.js.map",
+    "runtime-main.js": "/reactEcommerceRestaurant/static/js/runtime-main.171e2c8c.js",
+    "runtime-main.js.map": "/reactEcommerceRestaurant/static/js/runtime-main.171e2c8c.js.map",
+    "static/js/2.b2ee38f2.chunk.js": "/reactEcommerceRestaurant/static/js/2.b2ee38f2.chunk.js",
+    "static/js/2.b2ee38f2.chunk.js.map": "/reactEcommerceRestaurant/static/js/2.b2ee38f2.chunk.js.map",
+    "static/js/3.b2a4b33d.chunk.js": "/reactEcommerceRestaurant/static/js/3.b2a4b33d.chunk.js",
+    "static/js/3.b2a4b33d.chunk.js.map": "/reactEcommerceRestaurant/static/js/3.b2a4b33d.chunk.js.map",
+    "index.html": "/reactEcommerceRestaurant/index.html",
+    "static/js/2.b2ee38f2.chunk.js.LICENSE.txt": "/reactEcommerceRestaurant/static/js/2.b2ee38f2.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/reactEcommerceRestaurant/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/reactEcommerceRestaurant/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/reactEcommerceRestaurant/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/reactEcommerceRestaurant/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/reactEcommerceRestaurant/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/reactEcommerceRestaurant/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/reactEcommerceRestaurant/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/reactEcommerceRestaurant/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.171e2c8c.js",
+    "static/js/2.b2ee38f2.chunk.js",
+    "static/js/main.0460cf97.chunk.js"
+  ]
+}
